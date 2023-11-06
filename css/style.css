@@ -1,0 +1,110 @@
+.background {
+    background-image: linear-gradient(to bottom right,#f4c322, #edbc25, #fef583,#ffde53);
+}
+.size {
+    font-size: 11px; 
+}
+.font {
+    font-weight: bold;
+}
+.coloranh {
+    color: white;
+}
+.chugiua {
+    align-self: center;
+}
+.menu a {
+    color: #fff;
+    text-decoration: none;
+}
+.menu a:hover {
+    color: #e7ea1d;
+    text-decoration: none;
+}
+.tenanh {
+    font-size: 25px;
+    font-weight: bold;
+}
+.bgblack {
+    color: #151315;
+    text-shadow: 0px 4px 8px #77325a
+}
+.vien {
+    text-shadow: -1px 0 rgb(119, 255, 0), 0 1px rgb(238, 255, 0), 1px 0 black, 0 -1px black
+}
+.mauanh {
+    color: #094f80;
+}
+.background-qt {
+    background-image: url(../img/bgquytrinh.jpg);
+    background-repeat: no-repeat;
+}
+.textgiua {
+    text-align: center
+}
+.sizegiua {
+    font-size: 13px;
+    align-self: center;
+}
+.padding {
+    padding-top: 18%;
+}
+.kchu {
+    font-family: Optima;
+}
+.padding1 {
+    top: 10%;
+    padding-top: 10%;
+}
+.background-da {
+    background-image: url(../img/bgduan.jpg);
+    background-repeat: no-repeat;
+}
+.background-vd {
+    background-image: url(../img/bgvd1.jpg);
+    background-repeat: no-repeat;
+}
+.lineten {
+    background-color: #e1e1e1;
+    border-radius: 20px;
+    height: 2px;
+    position: relative;
+    width: calc(70% - 30px);
+    align-self: center;
+}
+.m-p {
+    margin-top: 4rem;
+    padding-left: 0;
+    margin-left: 0;
+    width: 300px;
+}
+.bg-ten {
+    background-color: rgba(7, 1, 1, 0.7);
+    margin-top: 4rem;
+    width: 300px;
+}
+.tenchu {
+    color: red;
+    font-weight: bold;
+}
+.tenslide{
+    position: absolute;
+      right: 15%;
+      bottom: 50%;
+      left: 15%;
+      padding-top: 1.25rem;
+      padding-bottom: 1.25rem;
+      color: #fff;
+      text-align: center;
+}
+.giamoi {
+    color: red;
+    font-weight: bold;
+}
+.giacu {
+    color: #9f9f9f;
+    text-decoration-line: line-through;
+    font-size: 80%;
+}
+
+
